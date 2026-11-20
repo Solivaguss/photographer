@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="650" viewBox="0 0 1600 650">
+<title>Temporary composition study — not a photograph</title>
+<rect width="1600" height="650" fill="#d9ddd7"/>
+<path d="M0 360H1600V650H0Z" fill="#bac4be"/>
+<path d="M0 490L190 455 305 474 425 417 550 438 680 570 900 650H0Z" fill="#7c8880"/>
+<path d="M0 585L185 550 360 606 510 586 620 650H0Z" fill="#5c6962"/>
+<path d="M1070 650V260H1205V650Z" fill="#b2b9b1"/>
+<path d="M1205 260L1295 305V650H1205Z" fill="#9da79d"/>
+<path d="M0 360H1600" stroke="#a7b5ac" stroke-width="1"/>
+</svg>
